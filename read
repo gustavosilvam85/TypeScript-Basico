@@ -1,0 +1,4 @@
+Para executar os arquivos Typescript utiliza-se o 
+tsc -w 
+
+para converter o arquivo para JS e colocar no index 

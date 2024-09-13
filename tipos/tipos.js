@@ -25,10 +25,10 @@ console.log(typeof hobbies);
 hobbies = [100, 200, 300];
 console.log(hobbies);
 //tuplas
-let endereco = ["Av Principal", 99];
-console.log(endereco);
-endereco = ["Rua importante", 1260, "bloco C"];
-console.log(endereco);
+// let lugar: [string,number,string]= ["Av Principal",99]
+// console.log(lugar)
+// lugar  = ["Rua importante", 1260, "bloco C"]
+// console.log(lugar)
 //enums
 var cor;
 (function (cor) {

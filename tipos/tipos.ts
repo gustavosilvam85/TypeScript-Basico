@@ -30,11 +30,11 @@ hobbies = [100, 200, 300]
 console.log(hobbies)
 
 //tuplas
-let lugar: [string,number,string]= ["Av Principal",99]
-console.log(lugar)
+// let lugar: [string,number,string]= ["Av Principal",99]
+// console.log(lugar)
 
-lugar  = ["Rua importante", 1260, "bloco C"]
-console.log(lugar)
+// lugar  = ["Rua importante", 1260, "bloco C"]
+// console.log(lugar)
 
 //enums
 enum cor{
